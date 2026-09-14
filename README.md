@@ -1,13 +1,23 @@
-# Diamond Sutra Interactive Reader
+# Buddhism Interactive Reading Library
 
-An interactive Traditional Chinese reader for the Diamond Sutra (金剛經), pairing the original text with plain-language explanations across all 32 chapters.
+An interactive Traditional Chinese reading library for Buddhist sutras, classical prose, poetry, and related stories.
 
 ## Features
 
+- Diamond Sutra and Heart Sutra readers
 - Sentence-level hover and click explanations
 - Chapter navigation and keyboard shortcuts
 - Single-chapter and continuous-scroll views
 - Collapsible table of contents and explanation panel
+- Light, dark, and system themes
 - Responsive desktop and mobile layout
 
-Open `index.html` directly, or visit the GitHub Pages site.
+## Architecture
+
+- `app.js` — shared reader module and interaction logic
+- `styles.css` — shared reader design
+- `data/diamond-sutra.json` — Diamond Sutra content
+- `data/heart-sutra.json` — Heart Sutra content
+- `diamond-sutra/` and `heart-sutra/` — thin reader entry pages
+
+Serve the directory with a local web server, or visit the GitHub Pages site.
