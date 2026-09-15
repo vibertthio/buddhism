@@ -4,6 +4,11 @@
   "subtitle": "原文・白話互動閱讀",
   "sectionUnit": "段",
   "navTitle": "八段義理目錄",
+  "audio": {
+    "title": "Heart Sutra 心經",
+    "src": "../assets/heart-sutra.m4a",
+    "sunoUrl": "https://suno.com/song/7eaa4d73-89b1-4999-973b-3a844e2aea3d"
+  },
   "sections": [
     {
       "title": "觀照般若",
@@ -12,15 +17,18 @@
       "segments": [
         {
           "original": "觀自在菩薩，行深般若波羅蜜多時，",
-          "translation": "觀自在菩薩深入修行般若智慧時，"
+          "translation": "觀自在菩薩深入修行般若智慧時，",
+          "start": 25.2
         },
         {
           "original": "照見五蘊皆空，",
-          "translation": "清楚照見構成身心的色、受、想、行、識五蘊，本質上都沒有固定不變的自性，"
+          "translation": "清楚照見構成身心的色、受、想、行、識五蘊，本質上都沒有固定不變的自性，",
+          "start": 31.56
         },
         {
           "original": "度一切苦厄。",
-          "translation": "因此超越了一切痛苦與困厄。"
+          "translation": "因此超越了一切痛苦與困厄。",
+          "start": 33.8
         }
       ]
     },
@@ -31,19 +39,23 @@
       "segments": [
         {
           "original": "舍利子！",
-          "translation": "舍利子！"
+          "translation": "舍利子！",
+          "start": 36.4
         },
         {
           "original": "色不異空，空不異色；",
-          "translation": "一切物質現象與空性並不分離，空性也不在物質現象之外；"
+          "translation": "一切物質現象與空性並不分離，空性也不在物質現象之外；",
+          "start": 37.86
         },
         {
           "original": "色即是空，空即是色。",
-          "translation": "物質現象當下就是因緣和合、沒有固定自性的空，空也正透過各種物質現象呈現。"
+          "translation": "物質現象當下就是因緣和合、沒有固定自性的空，空也正透過各種物質現象呈現。",
+          "start": 42.28
         },
         {
           "original": "受、想、行、識，亦復如是。",
-          "translation": "感受、思想、意志活動與識別作用，也都是如此。"
+          "translation": "感受、思想、意志活動與識別作用，也都是如此。",
+          "start": 46.06
         }
       ]
     },
@@ -54,19 +66,23 @@
       "segments": [
         {
           "original": "舍利子！是諸法空相：",
-          "translation": "舍利子！一切事物的空性，"
+          "translation": "舍利子！一切事物的空性，",
+          "start": 50.02
         },
         {
           "original": "不生不滅，",
-          "translation": "超越了固定的生起與消滅，"
+          "translation": "超越了固定的生起與消滅，",
+          "start": 60.52
         },
         {
           "original": "不垢不淨，",
-          "translation": "也不被限定為污垢或清淨，"
+          "translation": "也不被限定為污垢或清淨，",
+          "start": 64.12
         },
         {
           "original": "不增不減。",
-          "translation": "更沒有實體上的增加或減少。"
+          "translation": "更沒有實體上的增加或減少。",
+          "start": 66.72
         }
       ]
     },
@@ -77,31 +93,38 @@
       "segments": [
         {
           "original": "是故空中無色，無受、想、行、識；",
-          "translation": "因此從空性的角度看，五蘊都沒有獨立不變的實體；"
+          "translation": "因此從空性的角度看，五蘊都沒有獨立不變的實體；",
+          "start": 72.66
         },
         {
           "original": "無眼、耳、鼻、舌、身、意；",
-          "translation": "眼耳鼻舌身意六根，沒有固定自性；"
+          "translation": "眼耳鼻舌身意六根，沒有固定自性；",
+          "start": 76.68
         },
         {
           "original": "無色、聲、香、味、觸、法；",
-          "translation": "色聲香味觸法六境，也沒有固定自性；"
+          "translation": "色聲香味觸法六境，也沒有固定自性；",
+          "start": 78.54
         },
         {
           "original": "無眼界，乃至無意識界；",
-          "translation": "從眼識到意識的十八界，同樣沒有固定自性。"
+          "translation": "從眼識到意識的十八界，同樣沒有固定自性。",
+          "start": 82.62
         },
         {
           "original": "無無明，亦無無明盡；乃至無老死，亦無老死盡；",
-          "translation": "無明與無明的止息，乃至老死與老死的止息，都只是因緣中的過程；"
+          "translation": "無明與無明的止息，乃至老死與老死的止息，都只是因緣中的過程；",
+          "start": 85.18
         },
         {
           "original": "無苦、集、滅、道；",
-          "translation": "苦集滅道四聖諦，也不可執著為固定實體；"
+          "translation": "苦集滅道四聖諦，也不可執著為固定實體；",
+          "start": 91.4
         },
         {
           "original": "無智亦無得。",
-          "translation": "能證悟的智慧和可取得的成果，也都不可執著。"
+          "translation": "能證悟的智慧和可取得的成果，也都不可執著。",
+          "start": 93.02
         }
       ]
     },
@@ -112,19 +135,23 @@
       "segments": [
         {
           "original": "以無所得故，",
-          "translation": "正因為沒有一個可執取的成果，"
+          "translation": "正因為沒有一個可執取的成果，",
+          "start": 94.5
         },
         {
           "original": "菩提薩埵，依般若波羅蜜多故，心無罣礙；",
-          "translation": "菩薩依靠到達彼岸的般若智慧，內心便沒有牽掛障礙。"
+          "translation": "菩薩依靠到達彼岸的般若智慧，內心便沒有牽掛障礙。",
+          "start": 96.0
         },
         {
           "original": "無罣礙故，無有恐怖，",
-          "translation": "沒有障礙，就不再恐懼，"
+          "translation": "沒有障礙，就不再恐懼，",
+          "start": 102.92
         },
         {
           "original": "遠離顛倒夢想，究竟涅槃。",
-          "translation": "能遠離顛倒錯誤與夢幻般的妄想，最終達到徹底安穩解脫的涅槃。"
+          "translation": "能遠離顛倒錯誤與夢幻般的妄想，最終達到徹底安穩解脫的涅槃。",
+          "start": 111.4
         }
       ]
     },
@@ -135,15 +162,18 @@
       "segments": [
         {
           "original": "三世諸佛，",
-          "translation": "過去、現在、未來的一切佛，"
+          "translation": "過去、現在、未來的一切佛，",
+          "start": 120.6
         },
         {
           "original": "依般若波羅蜜多故，",
-          "translation": "都是依靠這般若智慧，"
+          "translation": "都是依靠這般若智慧，",
+          "start": 122.6
         },
         {
           "original": "得阿耨多羅三藐三菩提。",
-          "translation": "而成就無上、正確、平等而圓滿的覺悟。"
+          "translation": "而成就無上、正確、平等而圓滿的覺悟。",
+          "start": 124.84
         }
       ]
     },
@@ -154,19 +184,23 @@
       "segments": [
         {
           "original": "故知般若波羅蜜多，",
-          "translation": "因此應當知道，般若波羅蜜多具有不可思議的力量，"
+          "translation": "因此應當知道，般若波羅蜜多具有不可思議的力量，",
+          "start": 144.68
         },
         {
           "original": "是大神咒，是大明咒，",
-          "translation": "是破除黑暗的大光明，"
+          "translation": "是破除黑暗的大光明，",
+          "start": 148.98
         },
         {
           "original": "是無上咒，是無等等咒；",
-          "translation": "是至高無上、無可比擬的法門；"
+          "translation": "是至高無上、無可比擬的法門；",
+          "start": 155.5
         },
         {
           "original": "能除一切苦，真實不虛。",
-          "translation": "它能解除一切根本苦惱，這是真實而不是虛妄的。"
+          "translation": "它能解除一切根本苦惱，這是真實而不是虛妄的。",
+          "start": 161.4
         }
       ]
     },
@@ -177,23 +211,28 @@
       "segments": [
         {
           "original": "故說般若波羅蜜多咒，即說咒曰：",
-          "translation": "所以宣說般若波羅蜜多的真言："
+          "translation": "所以宣說般若波羅蜜多的真言：",
+          "start": 169.1
         },
         {
           "original": "揭諦，揭諦，",
-          "translation": "去吧，去吧，"
+          "translation": "去吧，去吧，",
+          "start": 180.02
         },
         {
           "original": "波羅揭諦，",
-          "translation": "去到彼岸吧，"
+          "translation": "去到彼岸吧，",
+          "start": 181.02
         },
         {
           "original": "波羅僧揭諦，",
-          "translation": "大家一同徹底到達彼岸吧，"
+          "translation": "大家一同徹底到達彼岸吧，",
+          "start": 181.92
         },
         {
           "original": "菩提薩婆訶。",
-          "translation": "願覺悟成就。"
+          "translation": "願覺悟成就。",
+          "start": 184.14
         }
       ]
     }
